@@ -1,1 +1,7 @@
 python is cool
+digango easy 
+
+frontend 
+-html 
+-css
+-js 
